@@ -1,0 +1,18 @@
+body{
+  background-color: #61dafb;
+}
+
+
+.App {
+  text-align: center;
+
+}
+
+a{
+  color: lightblue;
+  font-size: 35px;
+}
+.active{
+  color: lightyellow;
+  text-decoration: none;
+}
